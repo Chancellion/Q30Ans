@@ -3,6 +3,8 @@ from datetime import datetime
 from threading import Lock
 from typing import List
 
+input("Виконав Іванченко Даніїл, КІб-1-23-4.0д")
+
 class _SingletonMeta(type):
     """
     Клас-метаклас робить усіх своїх нащадків singleton-ами.
